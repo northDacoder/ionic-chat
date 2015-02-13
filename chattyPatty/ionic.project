@@ -1,6 +1,6 @@
 {
   "name": "chattyPatty",
-  "app_id": "",
+  "app_id": "b47ee022",
   "gulpStartupTasks": [
     "sass",
     "watch"
